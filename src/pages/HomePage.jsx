@@ -27,11 +27,6 @@ function HomePage() {
 
       {/* Sticky Buttons */}
       <StickyButtons />
-
-
-
-      {/* Bottom Menu Bar */}
-      <BottomMenuBar />
     </Page>
   );
 }

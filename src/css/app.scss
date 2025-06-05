@@ -79,9 +79,8 @@
     position: relative;
   }
 
-  /* BottomNavigation từ zmp-ui sẽ tự động fixed, cần override trong mobile wrapper */
-  .mobile-wrapper .bottom-menu-bar {
-    position: absolute !important;
+  .bottom-menu-bar {
+    position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
