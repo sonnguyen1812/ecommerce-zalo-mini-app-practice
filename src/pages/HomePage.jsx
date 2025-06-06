@@ -5,7 +5,6 @@ import ProductSlider from "../components/ProductSlider";
 import BrandSection from "../components/BrandSection";
 import HotDealsSection from "../components/HotDealsSection";
 import StickyButtons from "../components/StickyButtons";
-import BottomMenuBar from "../components/BottomMenuBar";
 
 function HomePage() {
   return (
